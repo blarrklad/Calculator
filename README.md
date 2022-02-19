@@ -35,8 +35,8 @@ Users should be able to:
 ![](./images/dark_mode_screenshot.png)
 
 ### Links
-- Solution URL: [Github](https://github.com/dahmide/calculator)
-- Live Site URL: [Netlify](https://calculator-app.netlify.app) 
+- Solution URL: [Github](https://github.com/blarrklad/calculator)
+- Live Site URL: [Netlify](https://blarrklad-calculator.netlify.app) 
 
 ## My Process
 
