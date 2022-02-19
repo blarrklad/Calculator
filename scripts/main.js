@@ -118,10 +118,9 @@ class App {
     inputs.className = 'main-app-motion';
     
     if (result == Infinity) {
-      console.log('yes')
       output.className = 'main-app-error';
       output.innerText = 'Can\'t divide by 0';
-    }else if (operands.includes('NaN')) {
+    } else if (operands.includes('NaN')) {
       output.className = 'main-app-error';
       output.innerText = 'Error';
     } else {
