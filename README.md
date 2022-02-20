@@ -59,4 +59,4 @@ To be able to perform more complex operations such as:
 ## Author
 - Github - [@dahmide](https://github.com/blarrklad)
 - Twitter - [@blarrklad](https://twitter.com/blarrklad)
-- Instagram - [@blarrklad](https://instagram.com/blarrklad)
+- Instagram - [@blarrk_lad](https://instagram.com/blarrk_lad)
